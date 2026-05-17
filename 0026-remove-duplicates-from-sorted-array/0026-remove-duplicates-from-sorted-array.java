@@ -8,12 +8,13 @@ class Solution {
                 high++;
                 continue;
             }
-            if(nums[high]!=nums[high-1]){
-                nums[low+1]=nums[high];
-                high++;
-                low++;
-                k++;
+            else if(nums[high]!=nums[high-1]){
+                    nums[low+1]=nums[high];
+                     high++;
+                    low++;
+                    k++;
             }
+            else return -1;
         }
         return k;
     }
