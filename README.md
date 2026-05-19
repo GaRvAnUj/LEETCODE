@@ -7,12 +7,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/GaRvAnUj/LEETCODE/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0027-remove-element](https://github.com/GaRvAnUj/LEETCODE/tree/main/0027-remove-element/) | Easy |
 | [0088-merge-sorted-array](https://github.com/GaRvAnUj/LEETCODE/tree/main/0088-merge-sorted-array/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/GaRvAnUj/LEETCODE/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/GaRvAnUj/LEETCODE/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0027-remove-element](https://github.com/GaRvAnUj/LEETCODE/tree/main/0027-remove-element/) | Easy |
 | [0088-merge-sorted-array](https://github.com/GaRvAnUj/LEETCODE/tree/main/0088-merge-sorted-array/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/GaRvAnUj/LEETCODE/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 ## Binary Search
