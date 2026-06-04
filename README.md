@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0027-remove-element](https://github.com/GaRvAnUj/LEETCODE/tree/main/0027-remove-element/) | Easy |
 | [0088-merge-sorted-array](https://github.com/GaRvAnUj/LEETCODE/tree/main/0088-merge-sorted-array/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/GaRvAnUj/LEETCODE/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0485-max-consecutive-ones](https://github.com/GaRvAnUj/LEETCODE/tree/main/0485-max-consecutive-ones/) | Easy |
 | [1470-shuffle-the-array](https://github.com/GaRvAnUj/LEETCODE/tree/main/1470-shuffle-the-array/) | Easy |
 | [1929-concatenation-of-array](https://github.com/GaRvAnUj/LEETCODE/tree/main/1929-concatenation-of-array/) | Easy |
 ## Two Pointers
