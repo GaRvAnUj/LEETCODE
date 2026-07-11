@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/GaRvAnUj/LEETCODE/tree/main/0169-majority-element/) | Easy |
 | [0209-minimum-size-subarray-sum](https://github.com/GaRvAnUj/LEETCODE/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/GaRvAnUj/LEETCODE/tree/main/0485-max-consecutive-ones/) | Easy |
+| [1089-duplicate-zeros](https://github.com/GaRvAnUj/LEETCODE/tree/main/1089-duplicate-zeros/) | Easy |
 | [1470-shuffle-the-array](https://github.com/GaRvAnUj/LEETCODE/tree/main/1470-shuffle-the-array/) | Easy |
 | [1929-concatenation-of-array](https://github.com/GaRvAnUj/LEETCODE/tree/main/1929-concatenation-of-array/) | Easy |
 ## Two Pointers
@@ -27,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/GaRvAnUj/LEETCODE/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0344-reverse-string](https://github.com/GaRvAnUj/LEETCODE/tree/main/0344-reverse-string/) | Easy |
 | [0541-reverse-string-ii](https://github.com/GaRvAnUj/LEETCODE/tree/main/0541-reverse-string-ii/) | Easy |
+| [1089-duplicate-zeros](https://github.com/GaRvAnUj/LEETCODE/tree/main/1089-duplicate-zeros/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
