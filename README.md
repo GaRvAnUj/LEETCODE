@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/GaRvAnUj/LEETCODE/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/GaRvAnUj/LEETCODE/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0367-valid-perfect-square](https://github.com/GaRvAnUj/LEETCODE/tree/main/0367-valid-perfect-square/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -86,4 +87,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0203-remove-linked-list-elements](https://github.com/GaRvAnUj/LEETCODE/tree/main/0203-remove-linked-list-elements/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0367-valid-perfect-square](https://github.com/GaRvAnUj/LEETCODE/tree/main/0367-valid-perfect-square/) | Easy |
 <!---LeetCode Topics End-->
